@@ -1,1 +1,1 @@
-# LINUX_APP
+# linux-cmnd
